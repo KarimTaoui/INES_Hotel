@@ -1,0 +1,115 @@
+
+/* Change the background color of the page */
+body {
+background-color: #160606;
+}
+
+/* Style the title */
+.title h1 {
+color: #2d2d2d;
+font-size: 3em;
+font-weight: bold;
+margin-bottom: 0.5em;
+}
+
+/* Style the headers */
+.header {
+background-color: #2176ae;
+color: #ffffff;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 2em;
+margin-bottom: 1em;
+padding: 0.5em;
+}
+
+/* Style the select box */
+select {
+width: 100%;
+padding: 0.5em;
+margin-bottom: 1em;
+border: none;
+border-radius: 5px;
+background-color: #f8f8f8;
+color: #2d2d2d;
+font-size: 1em;
+}
+
+/* Style the date input */
+input[type="date"] {
+width: 100%;
+padding: 0.5em;
+margin-bottom: 1em;
+border: none;
+border-radius: 5px;
+background-color: #801b52;
+color: #aa628e;
+font-size: 1em;
+}
+
+/* Style the button */
+button {
+background-color: #33681e;
+color: #610f0f;
+font-size: 1em;
+font-weight: bold;
+padding: 0.5em 1em;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+margin-top: 1em;
+}
+
+/* Style the success message */
+.success {
+color: #228B22;
+font-weight: bold;
+margin-top: 1em;
+}
+
+/* Style the error message */
+.error {
+color: #ff0000;
+font-weight: bold;
+margin-top: 1em;
+}
+
+/* Style the warning message */
+.warning {
+color: #ffa500;
+font-weight: bold;
+margin-top: 1em;
+}
+
+/* Style the table */
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 1em;
+}
+
+th {
+background-color: #eceff1;
+color: #5a0e0e;
+font-weight: bold;
+padding: 0.5em;
+}
+
+td {
+padding: 0.5em;
+border: 1px solid #c46868;
+}
+
+/* Style the text input */
+input[type="text"] {
+width: 100%;
+padding: 0.5em;
+margin-bottom: 1em;
+border: none;
+border-radius: 5px;
+background-color: #aabccc;
+color: #eeeded;
+font-size: 1em;
+}
+    
+
